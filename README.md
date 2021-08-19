@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yshlin
+- 👋 Hi, I’m Eddie Lin
 - 👀 I’m interested in solving real life problems.
 - Some of my old repos: 
   - https://github.com/mozilla-tw/taipei-bi-etl
